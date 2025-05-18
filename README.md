@@ -28,9 +28,12 @@ The dataset encompasses mobile sales records, including:
 
 ## 📊 Dashboard Overview
 
-![Dashboard Screenshot 1](Assets/Dashboard_Screenshot_1.png)
-![Dashboard Screenshot 2](Assets/Dashboard_Screenshot_2.png)
-![Dashboard Screenshot 3](Assets/Dashboard_Screenshot_3.png)
+![Dashboard Screenshot 1]![image](https://github.com/user-attachments/assets/0a6969bf-eadb-4358-8854-250ee8c30edc)
+
+![Dashboard Screenshot 2]![image](https://github.com/user-attachments/assets/0f1024d1-db6b-4458-acc3-1358f9ebba56)
+
+![Dashboard Screenshot 3]![image](https://github.com/user-attachments/assets/d4c96cd4-72e0-473d-a92f-0c6b00535f8b)
+
 
 ## 📌 Key Performance Indicators (KPIs)
 
@@ -74,4 +77,3 @@ The dataset encompasses mobile sales records, including:
 
 **Presenter**: Riya Roy
 
-For more information, please contact [Riya Roy](mailto:riya.roy@example.com).
